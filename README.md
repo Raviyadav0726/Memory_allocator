@@ -1,4 +1,7 @@
+
 # Memory Allocator Simulator
+
+🚀 **Live Demo:** https://memory-allocator-nu.vercel.app
 
 An interactive web-based simulator for understanding memory allocation strategies in Operating Systems.
 
